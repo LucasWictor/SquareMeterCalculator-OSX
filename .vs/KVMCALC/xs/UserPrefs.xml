@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B6C42A45-8A2D-413C-A3A5-A733568B8242}|Default">
+  <MonoDevelop.Ide.ItemProperties.KVMCALC PreferredExecutionTarget="MyMacID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KVMCALC/ViewController.cs">
+    <Files>
+      <File FileName="KVMCALC/AppDelegate.cs" />
+      <File FileName="KVMCALC/ViewController.cs" Line="44" Column="10" />
+      <File FileName="KVMCALC/ViewController.designer.cs" />
+      <File FileName="KVMCALC/Info.plist" />
+      <File FileName="KVMCALC/Entitlements.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KVMCALC" expanded="True">
+            <Node name="KVMCALC" expanded="True">
+              <Node name="Main.storyboard" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
